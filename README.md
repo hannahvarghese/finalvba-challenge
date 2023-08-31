@@ -1,2 +1,3 @@
-# finalvba-challenge
-This is the repository for the VBA challenge
+# vba_scripting
+
+Using VBA scriptting to analyze generated stock market data
